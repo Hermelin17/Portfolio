@@ -5,7 +5,7 @@ const projects = [
     description:
       "Master thesis at Voysys. Implementation of a real-time gaussian splatter algorithm in C++ using OpenGL and CUDA.",
     tags: ["C++", "OpenGL", "CUDA", "Python"],
-    color: "#b85f33",
+    color: "#ff0044",
     link: "#",
     images: [
       { src: "/Images/GS/splat.png", caption: "Final splat" },
